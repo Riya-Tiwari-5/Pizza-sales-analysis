@@ -1,22 +1,23 @@
 # Pizza-sales-analysis
 
  Project Description:
-This project uses SQL to analyze the dataset of an pizza store.
+This project uses SQL to analyze the dataset of a Pizza store.
 
-The objective of the project is to gain valuable insights from the datasets containing tables of order_details,pizza_types etc.
+The objective of the project is to gain valuable insights from the datasets containing tables of order_details, pizza_types etc.
 
 The goal of the project is to answer a set of questions about the pizza store's business performance and help in its growth by making better decisions.
 
  Tool Used:
-MySQL
+ MySQL
 
  Tables Used:
-order_details
-orders 
-pizzas
-pizza_types
+1.order_details
+2.orders 
+3.pizzas
+4.pizza_types
 
  Queries of the Project:
+ 
  1. Retrieve the total number of orders placed.
  2. Calculate the total revenue generated from pizza sales.
  3. Identify the highest-priced pizza.
@@ -31,7 +32,6 @@ pizza_types
  12. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 
-    Calculate the percentage contribution of each pizza type to total revenue.   
 
  
 
